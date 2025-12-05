@@ -5,3 +5,4 @@ joblib>=1.0.0
 matplotlib>=3.5.0
 fastapi>=0.68.0
 uvicorn>=0.15.0
+gradio>=4.0.0
